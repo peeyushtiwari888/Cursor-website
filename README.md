@@ -15,7 +15,7 @@ https://zippy-jelly-7c91f9.netlify.app/
 ## 🎥 Video Demo
 
 📽️ **Project Walkthrough Video:** (linkedin)
-https://www.linkedin.com/posts/peeyush-tiwari-a4b802319_webdevelopment-frontend-assignmentcompleted-activity-7425212365169709056
+https://www.linkedin.com/posts/peeyush-tiwari-a4b802319_webdevelopment-frontend-assignmentcompleted-activity-7425212365169709056--VfD?utm_source=share&utm_medium=member_android&rcm=ACoAAFC-Q1sB70Nh5GBwvPT0avmpakfjWxwwDeA
 
 ---
 
