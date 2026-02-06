@@ -58,20 +58,21 @@ Below are some desktop preview screenshots of the project:
 
 
 font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-🎯 Color Palette 
+## 🎯 Color Palette
 
-Usage	                                    Color Code
-Main Background                         	#1b1913
-Secondary Background	                    #2b2923
-Section Background                      	#26241e
-Border Color	                            #2b2923, rgba(255,255,255,0.04)
-Primary Text	                            #ffffff
-Secondary Text	                          #bdbdbd, #b8b8b8
-Muted Text                               	#9e9e9e, #8a8a8a
-Accent / Link Color                     	#f30a0a
-Highlight Link                          	#ff6a00
-Button Background                       	#ffffff
-Button Text                             	#000000
+| Usage | Color Code |
+|------|-----------|
+| Main Background | `#1b1913` |
+| Secondary Background | `#2b2923` |
+| Section Background | `#26241e` |
+| Border Color | `#2b2923`, `rgba(255,255,255,0.04)` |
+| Primary Text | `#ffffff` |
+| Secondary Text | `#bdbdbd`, `#b8b8b8` |
+| Muted Text | `#9e9e9e`, `#8a8a8a` |
+| Accent / Link Color | `#f30a0a` |
+| Highlight Link | `#ff6a00` |
+| Button Background | `#ffffff` |
+| Button Text | `#000000` |
 
 🛠️ Technologies Used
 
