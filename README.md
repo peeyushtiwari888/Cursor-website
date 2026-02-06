@@ -99,7 +99,7 @@ Video & Image Embeds
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/peeyushtiwari888/Cursor-website
 
 
 2.Open index.html in any modern browser.
