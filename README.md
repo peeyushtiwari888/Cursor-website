@@ -35,7 +35,8 @@ The following sections have been recreated based on the reference design:
 
 - **Primary Font:** Inter  
 - **Fallback Fonts:**
-  css
+
+```css
 font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 🎯 Color Palette (From Actual CSS)
 Usage	Color Code
@@ -50,18 +51,16 @@ Accent / Link Color	#f30a0a
 Highlight Link	#ff6a00
 Button Background	#ffffff
 Button Text	#000000
-
+```
 🛠️ Technologies Used
 
-HTML5
+1.HTML5
 
-CSS3
+2.CSS3
 
-Flexbox
+3.Flexbox
 
-CSS Grid
-
-Responsive Design
+4.CSS Grid
 
 Video & Image Embeds
 📂 Project Structure
@@ -98,6 +97,12 @@ This project was built with attention to detail, clean structure, and a focus on
 Feel free to explore the code, experiment with the layout, and improve upon it.
 
 Happy Coding! 🚀
+
+👤 Author
+
+Peeyush Tiwari
+Software Engineering Student
+Frontend Development & UI Design Enthusiast
 
 
 
