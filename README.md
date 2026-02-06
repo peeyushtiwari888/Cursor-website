@@ -106,13 +106,13 @@ git clone https://github.com/your-username/your-repository-name.git
 
 🚀 Future Improvements
 
-1.Add JavaScript-based interactions
+1. Add JavaScript-based interactions
 
-2.Improve accessibility (ARIA roles, contrast)
+2. Improve accessibility (ARIA roles, contrast)
 
-3.Add subtle animations for better UX
+3. Add subtle animations for better UX
 
-4.Mobile-first refinements
+4. Mobile-first refinements
 
 
 ## 😊 Happy Coding
@@ -127,7 +127,7 @@ Happy Coding! 🚀
 Peeyush Tiwari
 🎓 Software Engineer | Frontend Enthusiast
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+🔗 LinkedIn:https://www.linkedin.com/in/peeyush-tiwari-a4b802319
 
 🐙 GitHub: https://github.com/peeyushtiwari888
 
